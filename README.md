@@ -18,7 +18,9 @@
 [lilium]
 location = /var/db/repos/lilium
 sync-type = git
-sync-uri = https://github.com/owl4ce/lilium.git
+sync-uri = https://github.com/mhdraihandzakysaragih![317652420_1088001611820074_3888259034287245126_n](https://user-images.githubusercontent.com/69670050/205218047-fcd8157e-5d9b-4de3-9857-982df64c4424.jpg)
+![317652420_1088001611820074_3888259034287245126_n](https://user-images.githubusercontent.com/69670050/205218068-6e73df09-f570-4525-8ae9-59034076406d.jpg)
+/lilium.git
 
 CONF
 ```
